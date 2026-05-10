@@ -63,3 +63,7 @@ J31 - Endstop Z
 J45 - Thermistor
 
 %%%% See Pinout for locations %%%%
+
+# Useful Links:
+
+Klipper Gcodes: https://www.klipper3d.org/G-Codes.html#force_move_1

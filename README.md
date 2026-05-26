@@ -7,6 +7,7 @@ Mainsail and Klipper Configuration files for Bigslinger in the SAU Makerspace. S
 3. In a web browser navigate to 100.123.100.114
 4. Home All Axes
 5. Adjust Z-Offset
+
 Making your gcode:
 1. In Prusa Slicer, Go to file > Import > Import Config Bundle
 2. Upload "Bigslinger_prusa_config_bundle.ini"

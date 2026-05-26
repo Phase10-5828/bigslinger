@@ -87,5 +87,5 @@ J45 - Thermistor
 
 Klipper Gcodes: https://www.klipper3d.org/G-Codes.html#force_move_1
 
-#Licensing
+# Licensing
 This Project in its entirety is Licensed strictly Under GPL 3.0, The licensor reserves the right to issue other licenses separate from the standard GPL 3.0 License. See http://www.gnu.org/licenses/gpl-3.0.en.html#license-text for full details.
